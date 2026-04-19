@@ -27,11 +27,4 @@ This project is a data science project that scrapes Hacker News posts, analyzes 
 | File | Description |
 |---|---|
 | `web_scraping.ipynb` | Notebook for scraping Hacker News data |
-| `web_scraping_only.ipynb` | Notebook focused only on web scraping |
 | `haker_news.ipynb` | Main analysis and machine learning notebook |
-| `flow_chart.ipynb` | Notebook related to project workflow |
-
-## Note
-
-This repository contains only code notebooks.  
-Dataset files, reports, documents, and images are not included.
