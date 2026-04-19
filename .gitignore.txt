@@ -1,0 +1,29 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Reports / documents / images
+*.docx
+*.pdf
+*.pptx
+*.png
+*.jpg
+*.jpeg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
